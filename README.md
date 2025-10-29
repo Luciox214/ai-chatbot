@@ -1,15 +1,15 @@
-# 🧠 AI Text Reviewer - Spring Boot + Ollama
+#  AI Text Reviewer - Spring Boot + Ollama
 
 Este es un proyecto simple que integra **Spring Boot**, **Spring AI** y **Ollama** para revisar textos en español con inteligencia artificial de forma local.
 
-## 🚀 ¿Qué hace?
+## ¿Qué hace?
 
 ✅ Recibe un comentario, un PDF o ambos  
 ✅ Procesa el contenido con IA local (LLaMA 3)  
 ✅ Devuelve sugerencias o correcciones  
 ✅ Todo funciona sin conexión a servicios externos
 
-## 🔧 Tecnologías
+##  Tecnologías
 
 - Java 17 + Spring Boot
 - Spring AI
