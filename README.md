@@ -3,11 +3,10 @@
 Este es un proyecto simple que integra **Spring Boot**, **Spring AI** y **Ollama** para revisar textos en español con inteligencia artificial de forma local.
 
 ## ¿Qué hace?
-
-✅ Recibe un comentario, un PDF o ambos  
-✅ Procesa el contenido con IA local (LLaMA 3)  
-✅ Devuelve sugerencias o correcciones  
-✅ Todo funciona sin conexión a servicios externos
+-  Recibe un comentario, un PDF o ambos
+-  Procesa el contenido con IA local (LLaMA 3)
+-  Devuelve sugerencias o correcciones
+-  Todo funciona sin conexión a servicios externos
 
 ##  Tecnologías
 
@@ -16,7 +15,7 @@ Este es un proyecto simple que integra **Spring Boot**, **Spring AI** y **Ollama
 - Ollama (llama3)
 - HTML, CSS y JS para el frontend
 
-## 🛠 Cómo ejecutar
+## Cómo ejecutar
 
 ### 1. Clonar y compilar
 - git clone https://github.com/tu-usuario/ai-text-reviewer.git
